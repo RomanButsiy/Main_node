@@ -8,6 +8,7 @@
 - ** Main node ESP8266 ** 
 - ** Main node ATmega168 ** 
 - ** Node ATmega168 **
+- ** tools ** - Для завантаження файлової системи
 - ** libraries ** - бібліотеки проекту
 - ** screens ** - фото проекту
 ## 2019 Roman
