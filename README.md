@@ -1,10 +1,8 @@
 # Main_node
-##
-##
   - Канал на YouTube: https://goo.gl/x8FL2o
   - Відео з проектом: 
-  - Схема: https://easyeda.com/Targaryen/Nixie_Clock
-  - Github: https://github.com/RomanButsiy/NixieClock
+  - Схема: https://easyeda.com/Targaryen/Main_node
+  - Github: https://github.com/RomanButsiy/Main_node
   - Автор: Roman
 # Папки
 - ** Main node ESP8266 ** 
