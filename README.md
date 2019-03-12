@@ -6,8 +6,8 @@
   - Автор: Roman
 # Папки
 - ** Main node ESP8266 ** 
-- ** Main node ATmega168 ** 
-- ** Node ATmega168 **
+- ** Main node ATmega328p ** 
+- ** Node ATmega328p **
 - ** tools ** - Для завантаження файлової системи
 - ** libraries ** - бібліотеки проекту
 - ** screens ** - фото проекту
